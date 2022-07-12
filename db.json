@@ -7,16 +7,22 @@
       "reminder": true
     },
     {
-      "id": 4,
-      "text": "Leer mi libro favorito",
-      "day": "Agosto 5 a las 21:00",
-      "reminder": true
-    },
-    {
-      "text": "sdfs",
-      "day": "sdfgsdfg",
+      "text": "Cita con el medico",
+      "day": "Agosto 10 a las 13:00",
       "reminder": true,
       "id": 5
+    },
+    {
+      "text": "Leer mi libro favorito",
+      "day": "Agosto 12 a las 20:00",
+      "reminder": false,
+      "id": 7
+    },
+    {
+      "text": "Cumpleaños de hermano",
+      "day": "Agosto 22 a las 12:00",
+      "reminder": true,
+      "id": 8
     }
   ]
 }
